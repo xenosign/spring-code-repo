@@ -1,0 +1,9 @@
+// JPA
+implementation 'org.springframework:spring-orm:5.3.29' // Spring ORM 의존성
+implementation 'javax.persistence:javax.persistence-api:2.2' // JPA API
+implementation 'org.springframework.data:spring-data-jpa:2.5.4'
+implementation 'org.hibernate:hibernate-core:5.5.6.Final'
+implementation 'mysql:mysql-connector-java:8.0.33'
+
+//    // 스프링 부트 일때
+//    implementation 'org.springframework.boot:spring-boot-starter:2.2.0'
