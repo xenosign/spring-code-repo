@@ -1,0 +1,2 @@
+// 암호화
+implementation 'org.springframework.security:spring-security-crypto'
