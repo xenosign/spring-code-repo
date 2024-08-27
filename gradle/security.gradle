@@ -1,0 +1,8 @@
+// 스프링 시큐리티
+implementation("org.springframework.security:spring-security-web:${springSecurityVersion}")
+implementation("org.springframework.security:spring-security-config:${springSecurityVersion}")
+implementation("org.springframework.security:spring-security-core:${springSecurityVersion}")
+implementation("org.springframework.security:spring-security-taglibs:${springSecurityVersion}")
+
+// 암호화
+implementation 'org.springframework.security:spring-security-crypto'
