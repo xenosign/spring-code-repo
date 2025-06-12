@@ -1,5 +1,4 @@
-USE
-mybatis;
+USE tetzdb;
 
 CREATE TABLE posts
 (
