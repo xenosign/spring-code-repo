@@ -130,6 +130,6 @@
     </tbody>
 </table>
 
-<a class="new-button" href="/post/v1/new">새글 작성하기</a>
+<a class="new-button" href="/post/v1/new">새 글 작성하기</a>
 </body>
 </html>
