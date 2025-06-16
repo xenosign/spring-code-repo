@@ -1,0 +1,3 @@
+// Redis
+implementation 'org.springframework.data:spring-data-redis:2.6.6'
+implementation 'io.lettuce:lettuce-core:6.1.8.RELEASE'
