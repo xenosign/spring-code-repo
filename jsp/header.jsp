@@ -28,4 +28,8 @@
     <a href="/user/login">로그인</a>
     <a href="/admin">어드민</a>
     <a href="/member">멤버</a>
+    <a href="#" onclick="document.getElementById('logout-form').submit();">로그아웃</a>
+    <form id="logout-form" action="/user/logout" method="post" style="display: none;">
+        <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
+    </form>
 </div>
